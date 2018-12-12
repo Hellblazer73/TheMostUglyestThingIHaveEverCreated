@@ -1,0 +1,249 @@
+body html{
+	width: 100%;
+	height: 100%;
+}
+.logo{
+	height: 35px;
+}
+
+.WTF{
+
+color: red;
+}
+
+.dispFlex{
+	display: flex;
+}
+
+header{
+	width: 90%;
+	display: flex;
+margin-left: 8%;
+margin-right: 15%;
+margin-top: 1%;
+}
+.nav {
+display: flex;
+    margin-left: 12%;
+    width: fit-content;
+}
+.nav-ul{
+	display: flex;
+		 padding-top :3%;
+         width: fit-content;
+}
+
+.nav-ul-li{
+	margin-left: 5%;
+	margin-right: 8%;	
+	font-size: large;
+}
+.search{
+	color: #C85A30;
+}
+i{
+	margin-left: 5%;
+	font-size: x-large;
+}
+.nav-div{
+	margin-left: 8%;
+	display: flex;
+	width: fit-content;
+}
+.nav-ul-li2{
+	margin-left: 15%;
+	margin-right: 15%;
+	text-align: center;
+}
+
+main{
+	height: 100%;
+	background:#E6E6E6;
+
+}
+
+.div1{
+	margin-top: 2%;
+	height: 5px;
+	background:#E6E6E6;
+}  
+
+.div2{
+	margin-top: 2%;
+    background-image: url(../img/banner.png) ;
+    background-size: contain;
+    background-position: center;
+    height: 350px;
+    width: 100%;
+    background-repeat: no-repeat; 
+   
+}
+.box1{
+	margin-top: 2%;
+	background : #363D96;
+    height: fit-content;
+   
+
+}
+
+.text{
+	font-size: 20px;
+	text-align:left;
+	padding-top: 2%;
+	padding-left: 3%;
+	text-decoration-color: #000000;
+	color: white;
+}
+.div3{
+	padding-bottom: 3%;
+	padding-left: 3%;
+	padding-top: 2%;
+	padding-right: 3%;
+	display: flex;
+	justify-content: space-between;
+}
+.divbox{
+   float: left;
+   display: flex;
+}
+.colorBlue{
+	color: #3C57A6;
+}
+
+.boxxx{
+	background:#BCCCD3;
+}
+.boxbox{
+	margin-top: 3%;
+	padding-bottom: 2.5%;
+	padding-right: 3%;
+	padding-left: 3%;
+	display: flex;
+	justify-content: space-between;
+}
+
+.cont-pics{
+	padding-left: 3%;
+	height: 210px;
+	width: 270px;
+}
+.picText{
+	padding-top: 10px;
+	text-align: center;
+	margin-left: 3%;
+	background:#E6E6E6;
+	width: 200px;
+	height: 25px;
+
+}
+}
+.box5{
+	margin-right: 10%;
+}
+
+.div3{
+	justify-content: center;
+    align-items: center;
+	width: 80%;
+display: flex;
+padding-top: 2%;
+padding-left: 3%;
+padding-bottom: 3%;
+}
+
+.lilbox{
+	height: auto;
+	display: flex;
+	width: 450px;
+	
+}
+.divText{
+	color: #363D96;
+	padding-bottom: 2%;
+}
+.lastbox{
+	padding-top: 1%;
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-bottom: 1%;
+	background:white;
+}
+
+.footerDiv{
+	width: 90%;
+	padding-top: 2%;
+	padding-bottom: 3%;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+
+.underHeader{
+margin-top: 2%;
+background:#BCCCD3;
+display: flex;
+justify-content: space-between;
+padding-top: 2%;
+padding-bottom: 2%;
+padding-left: 8%;
+padding-right: 5%;
+}
+
+.margin{
+	padding-top: 2%;
+	padding-left: 8%;
+	padding-right: 5%;
+}
+
+.fas{
+	padding-bottom: 5px;
+}
+.newsIMG{
+	width: 300px;
+	height: 250px;
+}
+
+.paragText{
+    
+    padding-left: 2%;
+	
+}
+
+
+.paragText1{
+    margin-top:  2%;
+    padding-left: 8%;
+    padding-right: 5%;
+	
+}
+.rmore{
+	float: right;
+	margin-top: 6px;
+}
+.c
+{
+	float: left;
+}
+.created{
+	float: right;
+}
+.p1{
+	padding-left: 15px;
+}
+.a6{
+	float: right;
+	margin-top: 5px;
+}
+.lastbox{
+	margin-left: 5%;
+}
+.p2{
+	padding-left: 15px;
+}
+.divbox{
+	padding-left: 130px;
+}
+.box2{
+	padding-left: 30px;
+	margin-right: none;
+}
